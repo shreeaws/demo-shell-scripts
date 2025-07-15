@@ -1,0 +1,12 @@
+Sample Project 1: ToDo List Docker Image Deployed into Kubernetes (K8s) Cluster 📝☸️
+
+Excited to share a hands-on project I recently completed, where I containerized a simple ToDo List application and deployed it into a Kubernetes cluster on AWS.
+
+🔑 Key Learnings:
+
+1. ✅ Set up and configured a Kubernetes cluster using AWS
+2. 📄 Gained experience writing YAML manifests for K8s Deployments and Services
+3. 🐳 Understood how Docker images integrate with Kubernetes via deployment.yml
+4. 🔁 Explored the auto-healing capabilities of Kubernetes pods
+
+This project helped me understand the DevOps and container orchestration. I'm excited to learn more about advanced deployments and automation.
