@@ -1,0 +1,19 @@
+🚀 Day 2 | AWS: Zero to Hero by Shubham Londhe
+
+Today’s focus was on Amazon EKS (Elastic Kubernetes Service) and diving deeper into Kubernetes fundamentals and architecture. 🌐⚙️
+
+💡 Key Learnings:
+EKS – Managed Kubernetes on AWS
+Kubernetes Architecture – Clear understanding of control plane vs data plane
+Master Nodes Resources – API server, etcd, scheduler & controller manager
+Worker Nodes Resources – kubelet, kube-proxy, container runtime
+
+🔧 Hands-On Experience:
+ Deployed a Kubernetes cluster using AWS services like:
+EC2
+IAM
+CloudFormation
+
+Every step is bringing me closer to DevOps & Cloud Engineering skills. 💻☁️
+
+hashtag#AWS hashtag#EKS hashtag#Kubernetes hashtag#CloudComputing hashtag#DevOps hashtag#LearningInPublic hashtag#ShubhamLonde hashtag#AWSTraining hashtag#ZeroToHero hashtag#100DaysOfCloud
